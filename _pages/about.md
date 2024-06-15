@@ -17,16 +17,16 @@ Work experience
 1. 2017-2018    Postdoctoral Researcher, Woods Hole Oceanographic Institute
 1. 2010-2013    Zoology Assistant Lecture, College of Life Science, East China Normal Univ.
 
-EDUCATION
+EDUCATION 
 ======
-1. Ph.D., Estuarine and Coastal Sciences, 2017, East China Normal University, China
-1. Exchanging PhD student (2014-2016) at Woods Hole Oceanographic Institution, USA
-1. M.S.,  Zoology, 2010, East China Normal University, China 
-1. B.S.,  Life Science, 2007, Henan Normal University, China 
+- ** Ph.D., Estuarine and Coastal Sciences, 2017**, East China Normal University, China
+- ** Exchanging PhD student, 2014-2016**, Woods Hole Oceanographic Institution, USA
+- ** M.S.,  Zoology, 2010**, East China Normal University, China 
+- ** B.S.,  Life Science, 2007**, Henan Normal University, China 
 
 Contact
 ======
-Email: szhao@jamstec.go.jp
+Email: <span style="color:blue"> szhao@jamstec.go.jp
 
 For more info
 ------
