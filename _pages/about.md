@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Shiye Zhao (Email: <span style="color:blue"> szhao@jamstec.go.jp)"
+title: "Dr. Shiye Zhao"
 author_profile: true
 redirect_from: 
   - /about/
