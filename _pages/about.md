@@ -10,20 +10,22 @@ As an environmental oceanographer with training in marine chemistry/biology, I a
 
 Work experience
 ======
-2023-Present Researcher with tenure, Japan Agency for Marine-Earth Science and Technology
-2020-2023    Tenure-track Researcher, Japan Agency for Marine-Earth Science and Technology
-2020-2022    Guest Scientist, Harbor Branch Oceanographic Institute, Florida Atlantic Univ. 
-2018-2020    Research Associate, Harbor Branch Oceanographic Institute, Florida Atlantic Univ. 
-2017-2018    Postdoctoral Researcher, Woods Hole Oceanographic Institute
-2010-2013    Zoology Assistant Lecture, College of Life Science, East China Normal Univ.
+1. 2023-Present Researcher with tenure, Japan Agency for Marine-Earth Science and Technology
+1. 2020-2023    Tenure-track Researcher, Japan Agency for Marine-Earth Science and Technology
+1. 2020-2022    Guest Scientist, Harbor Branch Oceanographic Institute, Florida Atlantic Univ. 
+1. 2018-2020    Research Associate, Harbor Branch Oceanographic Institute, Florida Atlantic Univ. 
+1. 2017-2018    Postdoctoral Researcher, Woods Hole Oceanographic Institute
+1. 2010-2013    Zoology Assistant Lecture, College of Life Science, East China Normal Univ.
 
 EDUCATION
 ======
-•	Ph.D., Estuarine and Coastal Sciences, 2017, East China Normal University, China
-•	Exchanging PhD student (2014-2016) at Woods Hole Oceanographic Institution, USA
-•	M.S.,  Zoology, 2010, East China Normal University, China 
-•	B.S.,  Life Science, 2007, Henan Normal University, China 
+1. Ph.D., Estuarine and Coastal Sciences, 2017, East China Normal University, China
+1. Exchanging PhD student (2014-2016) at Woods Hole Oceanographic Institution, USA
+1. M.S.,  Zoology, 2010, East China Normal University, China 
+1. B.S.,  Life Science, 2007, Henan Normal University, China 
 
+Contact
+======
 Email: szhao@jamstec.go.jp
 
 For more info
