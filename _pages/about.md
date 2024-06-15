@@ -19,10 +19,10 @@ Work experience
 
 EDUCATION 
 ======
-- ** Ph.D., Estuarine and Coastal Sciences, 2017**, East China Normal University, China
-- ** Exchanging PhD student, 2014-2016**, Woods Hole Oceanographic Institution, USA
-- ** M.S.,  Zoology, 2010**, East China Normal University, China 
-- ** B.S.,  Life Science, 2007**, Henan Normal University, China 
+- **Ph.D., Estuarine and Coastal Sciences, 2017**, East China Normal University, China
+- **Exchanging PhD student, 2014-2016**, Woods Hole Oceanographic Institution, USA
+- **M.S.,  Zoology, 2010**, East China Normal University, China 
+- **B.S.,  Life Science, 2007**, Henan Normal University, China 
 
 Contact
 ======
