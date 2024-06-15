@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shiye Zhao Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is Shiye Zhao
+As an environmental oceanographer with training in marine chemistry/biology, I am interested in the dispersal and consequences of the anthropogenic emissions of oceanic particulate matter. Currently, my research principally focuses on scientific questions derived from plastic marine pollution, such as achieving a mechanistic understanding of different sized plastic particles into the ocean’s interior at a global scale and its impacts on the biological carbon pump, exploring the interactions between marine microbes and plastics/related leaching chemicals, investigating the role of estuary (i.e., estuarine fronts) and Polar Seas in the global plastics problem. In this context, I am committed to integrate my research findings into policy-making and management process by working with the regional and local networks.
 
 A data-driven personal website
 ======
