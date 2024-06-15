@@ -10,12 +10,12 @@ As an environmental oceanographer with training in marine chemistry/biology, I a
 
 Work experience
 ======
-1. 2023-Present Researcher with tenure, Japan Agency for Marine-Earth Science and Technology
-1. 2020-2023    Tenure-track Researcher, Japan Agency for Marine-Earth Science and Technology
-1. 2020-2022    Guest Scientist, Harbor Branch Oceanographic Institute, Florida Atlantic Univ. 
-1. 2018-2020    Research Associate, Harbor Branch Oceanographic Institute, Florida Atlantic Univ. 
-1. 2017-2018    Postdoctoral Researcher, Woods Hole Oceanographic Institute
-1. 2010-2013    Zoology Assistant Lecture, College of Life Science, East China Normal Univ.
+- 2023-Present Researcher with tenure, Japan Agency for Marine-Earth Science and Technology
+- 2020-2023    Tenure-track Researcher, Japan Agency for Marine-Earth Science and Technology
+- 2020-2022    Guest Scientist, Harbor Branch Oceanographic Institute, Florida Atlantic Univ. 
+- 2018-2020    Research Associate, Harbor Branch Oceanographic Institute, Florida Atlantic Univ. 
+- 2017-2018    Postdoctoral Researcher, Woods Hole Oceanographic Institute
+- 2010-2013    Zoology Assistant Lecture, College of Life Science, East China Normal Univ.
 
 EDUCATION 
 ======
