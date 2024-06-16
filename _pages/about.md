@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-As an environmental oceanographer with training in marine chemistry/biology, I am interested in the dispersal and consequences of the anthropogenic emissions of oceanic particulate matter. Currently, my research principally focuses on scientific questions derived from plastic marine pollution, such as achieving a mechanistic understanding of different sized plastic particles into the ocean’s interior at a global scale and its impacts on the biological carbon pump, exploring the interactions between marine microbes and plastics/related leaching chemicals, investigating the role of estuary (i.e., estuarine fronts) and Polar Seas in the global plastics problem. In this context, I am committed to integrate my research findings into policy-making and management process by working with the regional and local networks.
+As an environmental oceanographer specializing in marine chemistry and biology, my research focuses on understanding the dispersal and impacts of anthropogenic emissions of oceanic particulate matter. Specifically, I investigate the global-scale mechanisms by which different sizes of plastic particles enter the ocean's interior and their effects on marine biogeochemical cycling. Additionally, I explore interactions between marine microbes and plastics, as well as related leaching chemicals. I also study the role of estuaries (such as estuarine fronts) and Polar Seas in the global plastic pollution issue. I am dedicated to integrating my research findings into policymaking and management processes through collaboration with regional and local networks.
 
-Work experience
+In my leisure time, I cherish moments with my family and engage in activities like hiking, bicycling, basketball, and volleyball.
 ======
 - 2023-Present Researcher with tenure, Japan Agency for Marine-Earth Science and Technology
 - 2020-2023    Tenure-track Researcher, Japan Agency for Marine-Earth Science and Technology
