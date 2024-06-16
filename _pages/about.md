@@ -28,7 +28,7 @@ Education
 
 Contact
 ======
-Email: *<span style="color:blue"> szhao@jamstec.go.jp*
+Email: <span style="color:blue"> szhao@jamstec.go.jp
 
 For more info
 ======
