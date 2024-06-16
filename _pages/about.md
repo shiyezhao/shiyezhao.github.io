@@ -17,7 +17,7 @@ In my leisure time, I cherish moments with my family and engage in activities li
 - 2017-2018    Postdoctoral Researcher, Woods Hole Oceanographic Institute
 - 2010-2013    Zoology Assistant Lecture, College of Life Science, East China Normal Univ.
 
-EDUCATION 
+Education
 ======
 - **Ph.D., Estuarine and Coastal Sciences, 2017**, East China Normal University, China
 - **Exchanging PhD student, 2014-2016**, Woods Hole Oceanographic Institution, USA
