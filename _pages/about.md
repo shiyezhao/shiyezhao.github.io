@@ -30,6 +30,4 @@ Contact
 ======
 Email: <span style="color:blue"> szhao@jamstec.go.jp
 
-For more info
-======
-More info can be found in [Google Scholar ](https://scholar.google.com/citations?user=2E3zsqQAAAAJ&hl=en&oi=ao), and [Research Gate](https://www.researchgate.net/profile/Shiye-Zhao).
+
