@@ -26,7 +26,7 @@ Postdoctoral Researcher, Woods Hole Oceanographic Institute, Nov. 2017- Aug. 201
 Postdoctoral Researcher, East China Normal University, July-October 2017<br>
 M.A. Zoology, East China Normal University, 2007-2010
 
-Working with Me (:mailbox: szhao@jamstec.go.jp)
+Let's Work Together :world_map: (:e-mail: szhao@jamstec.go.jp)
 ======
 If you're interested in collaborating, please feel free to get in touch. Japan offers both short-term and long-term programs to support international students, as well as early-career and senior scientists. I encourage you to explore opportunities such as the [Sakura Science Exchange Program](https://ssp.jst.go.jp/en/) and the [JSPS Fellowships](https://www.jsps.go.jp/english/e-inv/index.html).
 
