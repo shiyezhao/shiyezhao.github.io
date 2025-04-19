@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+As an environmental oceanographer with a background in marine chemistry and microbiology, I study the dispersal and impacts of both anthropogenic and natural particulate matter in the ocean. My research focuses on: a) developing a mechanistic understanding of how plastic particles of varying sizes travel from the sea surface to the seafloor, and how this affects oceanic services—particularly the role of plastics in marine carbon sequestration; b) exploring the interactions between marine microbes and plastic debris or associated leachates, alongside natural particle influxes such as pumice, to assess how these inputs alter marine ecosystems; c) investigating the physical and chemical drivers behind plastic fragmentation and redistribution, including the influence of estuarine fronts and mesoscale eddies.
+I take an interdisciplinary approach, combining tools and techniques from optical spectroscopy, metagenomics, photochemistry, and marine particle chemistry. My fieldwork spans the global ocean, including participation in international research cruises and deep-sea dives aboard the human-occupied submersible Shinkai 6500. I am committed to translating my research into actionable insights by engaging with regional and local networks to support evidence-based policy and marine resource management.
 
 A data-driven personal website
 ======
