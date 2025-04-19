@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Shiye Zhao / JAMSTEC"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,23 +23,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Shiye Zhao"
+  pronouns         : "He/Him/His"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Yokosuka, Japan"
+  employer         : "Japan Agency for Marine-Earth Science and Technology (JAMSTEC)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "szhao@jamstec.go.jp" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  Google Scholar    : "https://scholar.google.com/citations?user=2E3zsqQAAAAJ&hl=en"
+  Researchmap      : "https://researchmap.jp/szhao"
   researchgate     : # URL
-  scopus           : # URL
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
