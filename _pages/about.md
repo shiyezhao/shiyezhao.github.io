@@ -36,5 +36,5 @@ S.B. Life Science, Henan Normal University, 2003-2007
 
 Working with Me (:mailbox:szhao@jamstec.go.jp)
 ======
-If you're interested in collaborating, please feel free to get in touch. Japan offers both short-term and long-term programs to support international students, as well as early-career and senior scientists. I encourage you to explore opportunities such as the Sakura Science Exchange Program [https://ssp.jst.go.jp/en/] and the JSPS Fellowships [https://www.jsps.go.jp/english/e-inv/index.html].
+If you're interested in collaborating, please feel free to get in touch. Japan offers both short-term and long-term programs to support international students, as well as early-career and senior scientists. I encourage you to explore opportunities such as the [Sakura Science Exchange Program] (https://ssp.jst.go.jp/en/) and the [JSPS Fellowships] (https://www.jsps.go.jp/english/e-inv/index.html).
 
