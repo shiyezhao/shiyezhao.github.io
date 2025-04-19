@@ -17,7 +17,7 @@ Guest PhD student, Woods Hole Oceanographic Institution, 2014-2016<br>
 Zoology Assistant Lecture, East China Normal University, 2010-2013<br> 
 S.B. Life Science, Henan Normal University, 2003-2007
 
-Professional experience
+Professional Experience
 ======
 Associate Researcher with Tenure, JAMSTEC, 2023-Present<br>
 Tenure-track Researcher, JAMSTEC, 2020-2023<br>
@@ -26,7 +26,7 @@ Postdoctoral Researcher, Woods Hole Oceanographic Institute, Nov. 2017- Aug. 201
 Postdoctoral Researcher, East China Normal University, July-October 2017<br>
 M.A. Zoology, East China Normal University, 2007-2010
 
-Let's Work Together :world_map: (:e-mail: szhao@jamstec.go.jp)
+Let's Work Together (:e-mail: szhao@jamstec.go.jp)
 ======
-If you're interested in collaborating, please feel free to get in touch. Japan offers both short-term and long-term programs to support international students, as well as early-career and senior scientists. I encourage you to explore opportunities such as the [Sakura Science Exchange Program](https://ssp.jst.go.jp/en/) and the [JSPS Fellowships](https://www.jsps.go.jp/english/e-inv/index.html).
+If you're interested in collaborating, please feel free to get in touch. For those outside Japan, Japan offers both short-term and long-term programs to support international students, as well as early-career and senior scientists. I encourage you to explore opportunities, such as the [Sakura Science Exchange Program](https://ssp.jst.go.jp/en/) and the [JSPS Fellowships](https://www.jsps.go.jp/english/e-inv/index.html).
 
