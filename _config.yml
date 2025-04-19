@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shiye Zhao / Personal Webpage"
+title                    : "Shiye Zhao/Homepage"
 title_separator          : "-"
 name                     : &name "Shiye Zhao"
 description              : &description "personal description"
