@@ -25,17 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Shiye Zhao"
   pronouns         : "He/Him/His"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Environmental Oceanographer"
   location         : "Yokosuka, Japan"
-  employer         : "Japan Agency for Marine-Earth Science and Technology (JAMSTEC)"
+  employer         : "JAMSTEC"
   uri              : # URL
   email            : "szhao@jamstec.go.jp" 
 
   # Academic websites
-  Google Scholar    : "https://scholar.google.com/citations?user=2E3zsqQAAAAJ&hl=en"
+  Google Scholar   : "https://scholar.google.com/citations?user=2E3zsqQAAAAJ&hl=en"
   Researchmap      : "https://researchmap.jp/szhao"
   researchgate     : # URL
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
