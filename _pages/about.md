@@ -24,8 +24,5 @@ S.B. Life Science, Henan Normal University, 2003-2007
 
 Working with Me
 ======
-If you're interested in collaborating, please feel free to get in touch. Japan offers both short-term and long-term programs to support international students, as well as early-career and senior scientists. I encourage you to explore opportunities such as the Sakura Science Exchange Program and the JSPS Fellowships.
-   https://ssp.jst.go.jp/en/
-   https://www.jsps.go.jp/english/e-inv/index.html
+If you're interested in collaborating, please feel free to get in touch. Japan offers both short-term and long-term programs to support international students, as well as early-career and senior scientists. I encourage you to explore opportunities such as the Sakura Science Exchange Program [https://ssp.jst.go.jp/en/] and the JSPS Fellowships [https://www.jsps.go.jp/english/e-inv/index.html].
 
-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
