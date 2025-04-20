@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here: [Zhao's CV](../assets/Curriculum Vitae_2025.pdf).
+You can find my CV here: [Shiye Zhao's CV](../assets/Curriculum_Vitae_Zhao_2025.pdf).
 
