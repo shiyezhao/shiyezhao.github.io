@@ -1,11 +1,11 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
-tags:
-  - cool posts
-  - category1
-  - category2
+title: " "
+date: 2024-09-23
+permalink: /posts/2024/09/Glacier/
 ---
+**Glacier** <br>The Glacier in Svalbard. <br/><img src='/images/front.png'>  
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+## Headings are cool
+
+## You can have many headings  
+## Aren't headings cool?
