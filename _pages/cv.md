@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+You can find my CV here: [Zhao's CV](../assets/Curriculum Vitae_2025.png).
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
