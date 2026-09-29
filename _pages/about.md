@@ -19,7 +19,8 @@ S.B. Life Science, Henan Normal University, 2003-2007
 
 Professional Experience
 ======
-Associate Researcher with Tenure, JAMSTEC, 2023-Present<br>
+Senior Researcher with Tenure, JAMSTEC, 2025-Present<br>
+Associate Researcher with Tenure, JAMSTEC, 2023-2025
 Tenure-track Researcher, JAMSTEC, 2020-2023<br>
 Postdoctoral Researcher, Harbor Branch Oceanographic Institute, Sept. 2018- Sept. 2020<br>
 Postdoctoral Researcher, Woods Hole Oceanographic Institute, Nov. 2017- Aug. 2018<br>
